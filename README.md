@@ -41,7 +41,7 @@ Python-from-Scratch/
 │
 ├── 01_Fundamentals/
 │   ├── 01_Python_Fundamentals.ipynb
-│   ├── 02_Variables_Data_Types_and_Memory.ipynb
+│   ├── 02_Variables_Data_Types_and_Type_System.ipynb
 │   ├── 03_Operators_and_Expressions.ipynb
 │   ├── 04_Conditional_Statements.ipynb
 │   ├── 05_Loops_and_Iteration.ipynb
